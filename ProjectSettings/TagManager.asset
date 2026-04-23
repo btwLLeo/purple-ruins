@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coin
+  - CoinManager
+  - Sword
+  - GameOver
+  - sec1
+  - sec2
+  - sec3
+  - sec4
+  - sec5
+  - sec6
+  - Wall
+  - spawn
+  - pause
+  - Start
+  - win
+  - coin
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obstacles
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Enemy
+  - Find
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
